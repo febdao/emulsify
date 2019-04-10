@@ -85,3 +85,11 @@ See [Drupal Usage](https://github.com/fourkitchens/emulsify/wiki/Drupal-Usage)
 #### Gulp Configuration
 
 See [Gulp Config](https://github.com/fourkitchens/emulsify/wiki/Gulp-Config)
+
+### Setup
+
+```
+composer install
+npm/yarn install
+npm/yarn start
+```
