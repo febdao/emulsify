@@ -93,3 +93,6 @@ composer install
 npm/yarn install
 npm/yarn start
 ```
+
+### Version of Nodejs
+You shouldn't using `node-v12` ATM, I prefer using `v10`

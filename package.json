@@ -10,5 +10,9 @@
     "start": "gulp compile && gulp theme",
     "postinstall": "./scripts/pattern_lab.sh && ./scripts/twig_functions.sh"
   },
-  "precommit.silent": true
+  "precommit.silent": true,
+  "dependencies": {
+    "fsevents": "^2.0.7",
+    "node-sass": "^4.12.0"
+  }
 }
